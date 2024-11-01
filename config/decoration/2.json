@@ -1,15 +1,81 @@
-[
+[    
     {
-      "id": 166,
+      "id": 661,
       "typeId": 2,
-      "camera": "head",
-      "name": "Helmet hat",
-      "iconUrl": "http://staticgs.sandboxol.com/sandbox/dresses/iconsclothes_hair.28.clothes_hair.1518004941472.28",
+      "camera": "Hair",
+      "name": "Hair Halloween",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1301851982780170240.png?v=1 ",
       "status": 0,
       "sex": 0,
       "tag": [],
-      "resourceId": "custom_hair.28",
-      "details": "Helmet hat",
+      "resourceId": "custom_hair.52",
+      "details": "9",
+      "price": 220,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 560,
+      "typeId": 2,
+      "camera": "Hair",
+      "name": "Hair 1",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1301851695281602601.png?v=1 ",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.19",
+      "details": "9",
+      "price": 220,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {
+      "id": 1468,
+      "typeId": 2,
+      "camera": "Rich Hair",
+      "name": "Rich Hair",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1301523823731937372.png?v=1",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.38",
+      "details": "9",
+      "price": 220,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
+    },
+    {        
+      "id": 1699,
+      "typeId": 2,
+      "camera": "head",
+      "name": "Helmet hat 2",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1294752312455073854.png?v=1",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.10",
+      "details": "Helmet hat 2",
       "price": 120,
       "currency": 1,
       "expire": 0,
@@ -19,8 +85,8 @@
       "occupyPosition": [
         12
       ],
-      "hasPurchase": 0
-    },
+      "hasPurchase": 1
+    },   
     {
       "id": 167,
       "typeId": 2,
@@ -240,5 +306,27 @@
         12
       ],
       "hasPurchase": 0
+    },
+      {
+      "id": 139589,
+      "typeId": 20,
+      "camera": "Horn",
+      "name": "t",
+      "iconUrl": "https://cdn.discordapp.com/emojis/1299348520649756682.png?v=1",
+      "status": 0,
+      "sex": 0,
+      "tag": [],
+      "resourceId": "custom_hair.35",
+      "details": "9",
+      "price": 220,
+      "currency": 1,
+      "expire": 0,
+      "type": 0,
+      "clanLevel": 0,
+      "vip": 0,
+      "occupyPosition": [
+        12
+      ],
+      "hasPurchase": 1
     }
 ]
