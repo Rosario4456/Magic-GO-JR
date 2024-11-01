@@ -1,0 +1,17 @@
+{
+  "name": "super-mods-main",
+  "version": "1.0.0",
+  "description": "BM Private",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Magic GO Test"
+  ],
+  "author": "GreenBMGO",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
